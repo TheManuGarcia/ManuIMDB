@@ -1,0 +1,33 @@
+body{
+	background:Darkolivegreen;
+}
+
+h1{
+	text-align: center;
+	font-family: Tahoma;
+}
+main {
+	width:60%;
+	display:block;
+	margin: 0 auto;
+	background:#669999;
+	padding: 10px;
+}
+
+
+.imdbinfo{
+	
+	color: #8D1919;
+	font: normal bold 18px Arial;
+}
+
+.imdb{
+	display:block;
+	width:109px;
+	margin: 0 auto;
+}
+
+.pics{
+	display:block;
+	margin:0 auto;
+}
